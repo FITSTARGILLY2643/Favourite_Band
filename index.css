@@ -1,0 +1,20 @@
+body{
+    margin:0 auto; padding:8px;
+    text-align: center;
+    display: block;
+    background-color:white;
+}
+h1{
+    background-color:#88BDBC;
+    border: 1px solid palevioletred;
+    padding: 10px;
+    text-align: center;
+}
+.intro{
+    border: 1px solid palevioletred;
+    padding: 10px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    color:mediumblue;
+    font-size: larger;
+}

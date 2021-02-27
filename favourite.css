@@ -1,0 +1,33 @@
+h1{
+    background-color:#88BDBC;
+    border: 1px solid palevioletred;
+    padding: 10px;
+    text-align: center;
+}
+ul {
+   
+  }
+  
+  li {
+    float: left;
+  }
+  
+ .unorder {
+    display: block;
+    color: white;
+    text-align: center;
+    
+    text-decoration: none; list-style-type: none;
+    /* margin: 0;
+    padding: 0; */
+    overflow: hidden;
+    background-color: #88BDBC;
+
+  }
+  a{
+    text-decoration: none;
+  }
+  .list{
+    padding: 16px 50px;
+    color: white;
+  }

@@ -38,19 +38,19 @@ ul {
     padding: 16px 50px;
     text-decoration: none;
   }
+  a{
+    text-decoration: none;
+  }
   
   /* Change the link color to #111 (black) on hover */
   li a:hover {
     background-color: #111;
   }
-.memberA{
-    text-align: left;
 
+h3{
+  color:blue;
+  font-size: large;
 }
-.memberB{
-    text-align:center;
-
-}
-.memberA{
-    display: inliine;
+.favourite ol li a:hover{
+  background-color: rgb(17, 17, 17);
 }

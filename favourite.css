@@ -4,9 +4,7 @@ h1{
     padding: 10px;
     text-align: center;
 }
-ul {
-   
-  }
+
   
   li {
     float: left;
@@ -22,12 +20,34 @@ ul {
     padding: 0; */
     overflow: hidden;
     background-color: #88BDBC;
+   
 
   }
   a{
     text-decoration: none;
+      border: 1 px solid blue;
   }
   .list{
     padding: 16px 50px;
     color: white;
   }
+  .favourite ol li {
+    border: 1 px solid blue;
+    
+  }
+  button {
+    background-color: #88BDBC;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .favourite{
+    border: 1px solid blue;
+    padding: 0px;
+    margin: 0px;
+    background-color:linen;
+  }
+  

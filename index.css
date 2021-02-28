@@ -1,6 +1,6 @@
 body{
     margin:0 auto; padding:8px;
-    text-align: center;
+    text-align: left;
     display: block;
     background-color:white;
 }
@@ -52,6 +52,14 @@ ul {
 ul li a :hover{
   background-color: black;
 }
-/* body {
-  background-image: url('images/sauti-sol.png');
-} */
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  color: blue;
+}

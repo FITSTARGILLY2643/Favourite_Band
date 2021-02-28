@@ -53,13 +53,16 @@ ul li a :hover{
   background-color: black;
 }
 img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  float: left;
+  margin-right: 10px;
+ 
 }
 h3{
   font-family: 'Times New Roman', Times, serif;
   font-style: normal;
   color: blue;
+}
+.members_view{
+  border: 1 px slid blue;
+  background-color: linen;
 }

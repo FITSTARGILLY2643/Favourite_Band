@@ -18,7 +18,7 @@ To access this project on your local files, you can clone it using these steps
 1. CSS
 1. Git
 ### Live Site
-View [live](https://hamida-mstafa.github.io/fev-band/)
+View [live](https://fitstargilly2643.github.io/Favourite_Band/)
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:

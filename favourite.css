@@ -35,7 +35,7 @@ h1{
     border: 1 px solid blue;
     
   }
-  button {
+  /* button {
     background-color: #88BDBC;
     color: white;
     padding: 10px 20px;
@@ -43,7 +43,7 @@ h1{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+  } */
   .favourite{
     border: 1px solid blue;
     padding: 0px;
@@ -51,4 +51,12 @@ h1{
     background-color:linen;
   }
 
-  
+  ul li a:hover{
+    background-color:blue;
+  }
+  .navbar ul li a:active{
+    background-color: black;
+  }
+  ul li a:visited{
+    background-color: black;
+  }

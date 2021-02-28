@@ -17,7 +17,7 @@ h1{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
-    color:blue;
+    color:black;
     background-color: linen;
 }
 ul {
@@ -49,9 +49,9 @@ ul {
   color:blue;
   font-size: large; */
 
-ul li a :hover{
+ /* ul li a :hover{
   background-color: black;
-}
+} */
 img {
   float: left;
   margin-right: 10px;
@@ -65,4 +65,13 @@ h3{
 .members_view{
   border: 1 px slid blue;
   background-color: linen;
+}
+ ul li a:hover{
+  background-color:blue;
+}
+.navbar ul li a:active{
+  background-color: black;
+}
+ul li a:visited{
+  background-color: black;
 }

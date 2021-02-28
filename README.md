@@ -1,4 +1,3 @@
-README sample
 # Sauti Sol Live Band
 ## Author
 Gilbert Kiprotich Mutai
